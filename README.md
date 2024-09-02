@@ -1,7 +1,7 @@
 ## Hi there 👋 It's Nivasshini
 
 - 🔭 Here's my Portfolio                                             
-- 🌱 I’m currently a student in Thiagarajar college of Engineering
+- 🌱 I’m currently a student at Thiagarajar college of Engineering
 - 🤔 I’m looking for help with Placements
 - 💬 Aspiring Tech Enthusiast.
 - 📫 How to reach me :
