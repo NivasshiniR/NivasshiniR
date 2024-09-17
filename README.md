@@ -4,7 +4,7 @@
 - 🌱 I’m currently a student at Thiagarajar college of Engineering
 - 🤔 I’m looking for help with Placements
 - 💬 Aspiring Tech Enthusiast.
-- 📫 How to reach me :
+- 📫 How to reach me:
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nivasRenga/)
 
 
