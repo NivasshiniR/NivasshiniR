@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2DF7B8&width=435&lines=Hello!+all+It's+Nivasshini" alt="Typing SVG" /></a>
 
-- 🔭 Here's my Portfolio                                             
+- 🔭 Here's my Portfolio.                                             
 - 🌱 I’m currently a student at Thiagarajar college of Engineering
 - 🤔 I’m looking for help with Placements
 - 💬 Aspiring Tech Enthusiast.
